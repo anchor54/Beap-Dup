@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193982092644",
+    "project_id": "beap-8363c",
+    "storage_bucket": "beap-8363c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193982092644:android:930579364507d678171671",
+        "android_client_info": {
+          "package_name": "com.jpshubeap.beapjpshu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193982092644-k95bf1jlv58mti53q0f34roq561v3hgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGtI21LqK2oyvGWBP1EBZSlM9mwqWQsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193982092644-k95bf1jlv58mti53q0f34roq561v3hgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
